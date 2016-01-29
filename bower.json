@@ -1,0 +1,19 @@
+{
+  "name": "comp2068-lesson03",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Wangzhetuteng <ericdicaprio@outlook.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ]
+}
