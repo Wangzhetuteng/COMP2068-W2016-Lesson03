@@ -1,5 +1,5 @@
 {
-  "name": "comp2068-w2016-lesson03",
+  "name": "comp2068-w2016-assignment1-part1",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "express": "^4.13.4"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangzhetuteng/COMP2068-W2016-Lesson03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wangzhetuteng/COMP2068-W2016-Lesson03/issues"
+  },
+  "homepage": "https://github.com/Wangzhetuteng/COMP2068-W2016-Lesson03#readme",
   "description": ""
 }
